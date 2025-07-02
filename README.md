@@ -6,6 +6,16 @@ Programmable Wallets for Salesforce, powered by Circle Programmable Wallets, is 
 
 Key management is abstracted as Developer Managed Wallets, using Salesforce permissions to manage wallet safety. The company will be able to grant read, write, and execute permissions on the Web3 assets without leaving the environment they are comfortable with.
 
+## Requirements
+
+This is a basic demonstration of a Salesforce DX Project. The following Salesforce developer tools are prerequisites to install and set up Salesforce Programmable Wallets from this repository.
+
+* **Salesforce DX Project Setup Information:** Download the [SF CLI tools](https://developer.salesforce.com/tools/salesforcecli), and use them to deploy to a Developer Edition Scratch Org.
+
+* **Salesforce Developer Edition:** You can get a free Salesforce Developer Edition account from Salesforce. Sign up at:
+https://developer.salesforce.com/signup
+
+
 ## Installation Instructions / How to Test the App
 
 1. Clone the repository. `git clone https://github.com/MuKnSys/salesforce-programmable-wallets.git`
@@ -86,24 +96,6 @@ This Open Source Project now has custom Lightning Web Components to run the Java
 Note: There is no supported way to copy the Cypher Text except via the NodeJS or Python SDKs. Therefore you must copy and paste it into the console.
 
 [Milestone 2 and 3 Demo Video](https://youtu.be/4BBZACRtaew)
-
-
-
-## Salesforce DX Project Setup Information
-
-This is a basic demonstration Salesforce DX Project. Using the
-[SF CLI](https://developer.salesforce.com/tools/sfdxcli) tools, you can deploy
-to a Developer Edition Scratch Org.
-
-Now that you’ve created a Salesforce DX project, what’s next? Here are some
-documentation resources to get you started.
-
-## Salesforce Developer Edition
-
-You can get a free Salesforce Developer Edition account from Salesforce. Sign up
-at:
-
-https://developer.salesforce.com/signup
 
 
 ## Submitting changes to GitHub
