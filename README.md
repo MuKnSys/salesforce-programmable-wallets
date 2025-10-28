@@ -2,7 +2,7 @@
 
 ![](https://github.com/MuKnSys/web3-wallet-for-salesforce/blob/main/documentation-and-images/Web3-wallet-for-Salesforce-logo.png)
 
-Programmable Wallets for Salesforce, powered by Circle Programmable Wallets, is an open source solution built on Circle Programmable Wallet technology to operating 100% within the Salesforce Ecosystem.
+Programmable Wallets for Salesforce, powered by Circle Programmable Wallets, is an open source solution built on Circle Programmable Wallet technology to operating 100% within the Salesforce ecosystem.
 
 Key management is abstracted as Developer Managed Wallets, using Salesforce permissions to manage wallet safety. The company will be able to grant read, write, and execute permissions on the Web3 assets without leaving the environment they are comfortable with.
 
